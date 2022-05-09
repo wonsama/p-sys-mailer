@@ -1,0 +1,25 @@
+{
+  "name": "p-sys-mailer",
+  "version": "1.0.0",
+  "description": "클라우드 시스템 정보를 메일로 주기적으로 보내기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonsama/p-sys-mailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonsama/p-sys-mailer/issues"
+  },
+  "homepage": "https://github.com/wonsama/p-sys-mailer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "moment-timezone": "^0.5.34",
+    "nodemailer": "^6.7.5"
+  }
+}
